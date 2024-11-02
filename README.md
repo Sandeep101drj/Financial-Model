@@ -62,7 +62,7 @@ The financial model is developed using Microsoft Excel, leveraging its powerful 
 
 - Formulas and Functions: For calculations of financial ratios, forecasts, and growth rates.
 - Data Visualization: Charts and graphs for clear representation of financial trends and performance metrics.
-- Pivot Tables: For summarizing and analyzing large datasets.
+
 
 ## Data Sources
 
